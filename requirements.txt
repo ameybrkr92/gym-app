@@ -3,7 +3,6 @@ gunicorn
 numpy
 seaborn
 plotly.express
-matplotlib.pyplot
 scipy
 sklearn
 matplotlib
